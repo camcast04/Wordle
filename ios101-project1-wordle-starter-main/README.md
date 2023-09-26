@@ -2,9 +2,9 @@
 
 Submitted by: **Camila Castaneda*
 
-**Name of your app** is an app that allows the user to play wordle
+**Wordle Pt.1** is an app that allows the user to play wordle
 
-Time spent: 1.5 hours spent in total
+Time spent: 1.5 hours spent in total.
 
 ## Required Features
 
@@ -30,7 +30,6 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 While the instructions to build the app were clear, I struggled with adding a launch screen and icon. I was unsure of how to upload pictures to the app since i am use to having them in adjacent folders and copying the path.
 
 ## License
